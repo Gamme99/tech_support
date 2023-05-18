@@ -7,7 +7,7 @@ Upload the tech_support directory to your web server's document root directory.
 Import the provided SQL file tech_support.sql into your MySQL database to set up the required tables and data.
 
 Usage
-Once you have completed the installation steps, you can access the project by visiting the URL where you uploaded the tech_support directory in a web browser.
+Once you have completed the installation steps, you can access the project by visiting the URL where you uploaded the tech_support directory in a web browser. Some data (customers and products has already been added
 
 The project follows the MVC pattern, which separates the application into three main components:
 
